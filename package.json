@@ -14,5 +14,8 @@
     "dotenv": "^17.2.3",
     "inngest": "^3.46.0",
     "ws": "^8.18.3"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.6"
   }
 }
